@@ -192,7 +192,7 @@ Each project contains its own design files, including applicable:
 | ESP32 PCB                   | ESP32   | Embedded / Wireless Controller | Custom  |
 | Smart Four-Wheel Controller | ESP32   | Robotics / Motor Control       | Custom  |
 | AT89S51 Development Board   | AT89S51 | 8051 Development / Interfaces  | Custom  |
-| STM32 Base Design           | STM32   | Multi-Interface Controller     | 4-Layer |
+| STM32 Base Design           | STM32   | Multi-Interface Controller     | 2-Layer |
 
 ---
 
